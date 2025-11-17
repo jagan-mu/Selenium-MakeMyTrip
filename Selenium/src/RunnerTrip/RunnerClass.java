@@ -6,7 +6,6 @@ import org.junit.runner.RunWith;
 
 import BaseTrip.BaseClass;
 import io.cucumber.junit.Cucumber;
-import io.cucumber.junit.CucumberOption;
 import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
@@ -21,3 +20,4 @@ public class RunnerClass extends BaseClass{
 
 }
 }
+
