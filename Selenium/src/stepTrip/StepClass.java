@@ -77,7 +77,7 @@ public class StepClass extends BaseClass  {
 	}
 
 	@Then("USer click Berth")
-	public void u_ser_click_berth() {
+	public void user_click_berth() {
 		driver.findElement(pathLocater.berth).click();
 		
 	}
@@ -107,3 +107,4 @@ public class StepClass extends BaseClass  {
 	
 
 }
+
